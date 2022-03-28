@@ -1,4 +1,4 @@
-##oat boat CLI
+## oat boat CLI
 
 The original backend around which I built the oat boat JavaFX application. 
 
